@@ -4,7 +4,7 @@
 
 
 #flatness{
-	width:30%;
+	width:40%;
 
 }
 nav ,.bg-purple{
@@ -153,15 +153,16 @@ form{
 .circle{
 	background-color: #1B0A2A;
 	border-radius:50%;
-	width:30px;
-	height:30px;
+	width:40px;
+	height:40px;
 	display:inline-block;
 	margin-left:2%;
 }
 
 .redes{
-	margin-left:15%;
-	margin-top:3%;
+	margin-left:25%;
+	margin-top:25%;
+	padding:3%;
 }
 
 #facebook{
@@ -182,20 +183,17 @@ form{
 	margin:30% auto;
 	display:block;
 }
-nav ,.bg-purple{
+.bg-purple{
 	background-color:#1B0A2A;
 	height:100px;
 	
 }
 
-#flatness{
-	width:50%;
-	height:50px;
-	margin:-5%;
-}
+
 .life{
 	
    	font-size:0.9em;
+   	margin-left:10%;
 
 }
 .text-footer{
